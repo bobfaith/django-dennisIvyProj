@@ -1,0 +1,4 @@
+django admin :
+username : bob
+pw: Darjeeling
+email: chettri.babin@gmail.com
