@@ -2,3 +2,9 @@ django admin :
 username : bob
 pw: Darjeeling
 email: chettri.babin@gmail.com
+
+
+package installed:
+1. django
+2. django-filter  (and list it in the Installed Apps in settings.py)
+
